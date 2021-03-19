@@ -116,8 +116,7 @@ a {
 @media (max-width: 768px) {
   .app {
     height: auto;
-    padding-bottom: 600px;
-    background-position: bottom center;
+    padding-bottom: 400px;
     background: url(/img/cover-image.jpg) no-repeat bottom center / 300px;
   }
 
