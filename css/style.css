@@ -56,7 +56,6 @@ a {
 }
 
 .film {
-  height: calc(100vh - 150px)
   width: 90%;
   max-width: 1146px;
   margin: auto;
